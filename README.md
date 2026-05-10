@@ -18,3 +18,8 @@ Also included is the original Tuxedo cat set if you want to start from that poin
 <img width="2160" height="1440" alt="Smudge_5" src="https://github.com/user-attachments/assets/7842a532-a039-4fab-b2cc-80a5bf01b8ea" />
 
 <img width="3840" height="2160" alt="PXL_20251129_072611046 RAW-01 COVER" src="https://github.com/user-attachments/assets/08bff014-fd0b-423c-97df-fc2b46d9ce50" />
+
+
+<img width="2160" height="1440" alt="Smudge nameplate" src="https://github.com/user-attachments/assets/2ede479c-aabe-45f7-9a48-a4c81d7b77d2" />
+<img width="2160" height="1440" alt="Smudge nameplate_3" src="https://github.com/user-attachments/assets/af3ec662-0b6f-433f-a503-4730182ee4d6" />
+<img width="2160" height="1440" alt="Smudge nameplate_2" src="https://github.com/user-attachments/assets/63c36cd1-f355-4443-9e49-0654978d175e" />
