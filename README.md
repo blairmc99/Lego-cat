@@ -6,6 +6,8 @@ I used the empty area inside the body to store her bag of cremated remains.
 
 With the box I receved the remains in, they included a small flat nameplate that has adhesive on the back.  Instead of sticking it to the box, I used some extra pieces to build a standalone name plate holder.
 
+Also included is the original Tuxedo cat set if you want to start from that point.
+
 <img width="2160" height="1440" alt="Smudge" src="https://github.com/user-attachments/assets/db05384a-795c-496a-a914-dddc900d6a5f" />
 
 
